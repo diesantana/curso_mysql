@@ -1,1 +1,1 @@
-# Reposit-rio-de-exerc-cios-do-curso-mysql
+# Repositório de exercícios do curso de mysql
