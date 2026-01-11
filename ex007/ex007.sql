@@ -1,0 +1,1 @@
+SELECT nome, preco FROM produtos WHERE nome LIKE 'Violão%';
